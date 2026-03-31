@@ -53,19 +53,6 @@ const API_KEY = "YOUR_API_KEY_HERE";
 4. Open index.html in your browser  
 
 
-
-## 🔐 Security Note
-
-Do not expose your API key publicly. Always replace it with a placeholder before pushing code to GitHub.
-
-
-
-## 🎥 Demo
-
-A demonstration video showcasing the functionality of the application is included in the repository.
-
-
-
 ## 💡 Future Enhancements
 
 - Voice input integration  
